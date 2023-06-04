@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @paulcristiann
 - 👀 I’m a dedicated and passionate software developer with a proven track of designing and developing software applications
-- 🌱 I’m currently researching blockchain technology
+- 🌱 I’m currently researching DIDs and Verifiable Credentials
 - 📜 EC-Council Certified Ethical Hacker
-- 📫 How to reach me -> paul-cristian.com
